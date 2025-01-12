@@ -5,4 +5,4 @@ Model::Model(const std::vector<ObjectVertex> &vertices,
              const std::vector<uint32_t> &indices)
     : vertices_(vertices), indices_(indices) {
 }
-}  // namespace battle_game
+}  // namespace battle_game 随意做一些改动。
